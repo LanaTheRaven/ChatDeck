@@ -1,3 +1,7 @@
+# Project Archival
+
+Seeing as the software I made this plugin for - StreamController - has decided to go all in on AI nonsense, I don't feel particularly motivated to continue development. Sorry folks.
+
 # Chat Deck
 
 The idea behind this plugin is to display and select Twitch chat messages on
